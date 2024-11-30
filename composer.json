@@ -1,0 +1,13 @@
+{
+    "name": "lyrics/quotes",
+    "description": "A website for sharing songwriter quotes",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.2"
+    }
+}
