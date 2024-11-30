@@ -166,9 +166,3 @@ lyric-quotes/
 - Music streaming service integration
 - Mobile application
 
-## Acknowledgments
-
-- PHP community
-- Tailwind CSS team
-- Docker team
-- All contributors and users of the platform
